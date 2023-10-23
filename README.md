@@ -1,2 +1,2 @@
 # Scrimba-Counter-App
-files associated with the passenger counter app project for Javascript completed on Scrimba.com
+These are the files associated with the passenger counter app project for the Learn Javascript course on Scrimba.com
